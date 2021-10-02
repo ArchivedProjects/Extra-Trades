@@ -1,0 +1,10 @@
+{
+  "item.minecraft.potion.effect.unluck": "Potion of Unluck",
+  "item.minecraft.splash_potion.effect.unluck": "Splash Potion of Unluck",
+  "item.minecraft.lingering_potion.effect.unluck": "Lingering Potion of Unluck",
+  "item.minecraft.tipped_arrow.effect.unluck": "Arrow of Unluck",
+  "item.minecraft.potion.effect.decay": "Potion of Decay",
+  "item.minecraft.splash_potion.effect.decay": "Splash Potion of Decay",
+  "item.minecraft.lingering_potion.effect.decay": "Lingering Potion of Decay",
+  "item.minecraft.tipped_arrow.effect.decay": "Arrow of Decay"
+}

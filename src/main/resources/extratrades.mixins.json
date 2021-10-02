@@ -4,9 +4,10 @@
   "package": "me.alexisevelyn.extratrades.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "PotionTradesMixin",
+    "TradesMixin"
   ],
   "client": [
-    "PotionTradesMixin"
   ],
   "injectors": {
     "defaultRequire": 1

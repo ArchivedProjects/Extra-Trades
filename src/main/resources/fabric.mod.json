@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "extratrades",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Extra Trades",
+  "description": "Adds Extra Trades To Villagers",
   "authors": [
-    "Me!"
+    "alexis-evelyn"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/alexis-evelyn/Extra-Trades",
+    "sources": "https://github.com/alexis-evelyn/Extra-Trades"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/extratrades/icon.png",
   "accessWidener" : "trades.accesswidener",
 
   "environment": "*",
@@ -24,7 +24,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "extratrades.mixins.json"
   ],
 
   "depends": {
@@ -33,7 +33,5 @@
     "minecraft": "1.17.x",
     "java": ">=16"
   },
-  "suggests": {
-    "another-mod": "*"
-  }
+  "suggests": {}
 }
